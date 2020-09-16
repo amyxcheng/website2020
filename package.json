@@ -2,6 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://amyxcheng.com",
   "dependencies": {
     "jquery": "^3.5.1",
     "react": "^16.13.1",
