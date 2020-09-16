@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name":"Amy Cheng",
+    "occupation":"computer science and business student",
+    "description":"studying in my fourth year at the University of Waterloo and Wilfrid Laurier University. Welcome to my website",
+    "image":"profilepic.jpg",
+    "bio":"Hi There! I'm Amy, a fourth year student studying Computer Science and Business, a double degree at the University of Waterloo and Wilfrid Laurier University. I'm interested in all types of software development, backend and frontend alike, and will continue to explore the different niches of computer science that spark my interest. I love to learn and create things through any medium, whether it's coding, sewing, building, or more! ",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "cheng amy 99 (AT) gmail.com (no spaces)",
+    "phone": "",
+    "address":{
+      "street":"",
+      "city":"Waterloo / Deep River",
+      "state":"In my spare time, I love playing sports! Some of my favourite include soccer, figure skating, nordic skiing, and badminton, but there are few sports I haven't tried. I am currently learning Muay Thai, bouldering, and playing intramural soccer and ultimate frisbee at university. I also love being outdoors and surrounded by nature. Watching sunsets and sunrises, climbing mountains, looking for shooting stars, swimming in rivers and oceans, and sitting by a warm fire are just a few things that make me immeasurably happy.",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://resume.creddle.io/embed/ijim27rsdrv",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/amy-c-973192126/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/amycheng99/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/amyxcheng",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Some skills I have picked up over the years.",
+    "education":[
+      {
+        "school":"University of Waterloo",
+        "degree":"Bachelor of Computer Science",
+        "graduated":"Graduating 2022",
+        "description":"Going into my 4A term. Currently, I am learning about Operating Systems, User Interfaces, and Applied Cryptography! My favourite CS course so far has been CS241, where we learned about sequential programs and compliers."
+      },
+      {
+        "school":"Wilfrid Laurier University",
+        "degree":"Bachelor of Business Administration; Entrepreneurship specialization",
+        "graduated":"Graduating 2022",
+        "description":"Going into my 4A term. Currently, I am learning about Business Policy (Strategy) and Entrepreneurial Finance. My favourite BBA course so far has been BU 231, Business Law!"
+      }
+    ],
+    "work":[
+      {
+        "company":"Achievers",
+        "title":"Fullstack Developer, Co-op",
+        "years":"January 2020 - May 2020",
+        "description":"Worked on frontend tasks to create new UI features for the Listen platform using React and Redux. Developed a new backend procedure using PHP that generates and displays mock data on the Listen platform to assist the Sales team pitch and demo the Listen product. Mock data could be randomized to create different instances of reports while still being in range of a specified average as requested by Sales. Improved and updated automated smoke tests using Selenium when new features were added to the platform or feature flags were being removed."
+      },
+      {
+        "company":"Canadian Nuclear Laboratories",
+        "title":"Project Management, Co-op",
+        "years":"January 2019 - May 2019",
+        "description":"Assisted the IT Capital Projects department in planning, developing, delivering internal projects affecting the entire company and its 3000 employees. Held weekly meetings with developers to discuss current and emerging issues, then bringing these issues to stakeholders for prioritizing and setting completion dates. Assisted in weekly user-acceptance testing before code deployment. Created a Windows application with C#/.NET  to assist developers with locating and determining run-time errors when loading large amounts of data into data marts. Worked on and gained experience with both agile-focused and waterfall-focused projects.."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"55%"
+      },
+      {
+        "name":"C/C++",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"55%"
+      },
+      {
+        "name":"HTML5",
+        "level":"55%"
+      },
+      {
+        "name":"Java",
+        "level":"65%"
+      },
+      {
+        "name":"PHP",
+        "level":"55%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Crafts With Amy",
+        "category":"Sewing and other art projects",
+        "image":"craftswithAmy.jpg",
+        "url":"https://www.instagram.com/craftswithamy/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"'Hope' is the thing with feathers - That perches in the soul - And sings the tune without the words - And never stops - at all.",
+        "user":"Emily Dickinson"
+      },
+      {
+        "text":"That Amy Cheng must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired her yet. Hey you, you should hire this gal, she may be still in University and have zero on the job experience but I am confident that she will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
