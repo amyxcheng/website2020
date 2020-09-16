@@ -21,7 +21,7 @@ class Footer extends Component {
            <ul className="copyright">
               <li>&copy; Copyright 2020 Amy Cheng</li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
-              <li>Special Thanks to Tim Baker for this website template! Find it <a title="WebsiteTemplate" href="https://github.com/tbakerx/react-resume-template" target="_blank">here</a></li>
+              <li>Special Thanks to Tim Baker for this website template! Find it <a title="WebsiteTemplate" href="https://github.com/tbakerx/react-resume-template" target="_blank" rel="noopener noreferrer">here</a></li>
            </ul>
 
         </div>
